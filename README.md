@@ -6,4 +6,4 @@
 - [Основы редактирования текста](/theory/Operating%20Systems%20and%20Environments/text.md)
 - [Markdown](/theory/Operating%20Systems%20and%20Environments/Markdown.md)
 - [Mermaid](/theory/Operating%20Systems%20and%20Environments/mermaid.md)
-- [](/)
+- [Основны Bash CLI](/theory/Operating%20Systems%20and%20Environments/bashcli.md)
