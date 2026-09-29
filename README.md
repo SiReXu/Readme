@@ -1,6 +1,9 @@
-# Readme
-WORK
+# Конспекты по предмету
 
- This is my repository for practical assignments in the subject "Operating Systems and Environments".
+Это мой репозиторий для практических задаинй по предмету Операционные системы и среды
 
- I work with a Windows/Linux stack.
+Навигация
+- [Основы редактирования текста](/theory/Operating%20Systems%20and%20Environments/text.md)
+- [Markdown](/theory/Operating%20Systems%20and%20Environments/Markdown.md)
+- [Mermaid](/theory/Operating%20Systems%20and%20Environments/mermaid.md)
+- [](/)
