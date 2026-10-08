@@ -1,7 +1,7 @@
 # Bash scripting
 
 Самостоятельная работа по Bash-программированию.
-Выполнено в VS Code + Git-Bash. Все скрипты лежат в папке [`bashScripting`](bashScripting).
+Выполнено в VS Code + Git-Bash. Все скрипты лежат в папке [`bashScripting`](/theory/Operating%20Systems%20and%20Environments/BashScript/).
 
 ## Скрипты
 
@@ -48,7 +48,7 @@ echo "Привет, $name!"
 
 Скриншот вывода:
 
-![1](/img/1.png)
+![1](/theory/Operating%20Systems%20and%20Environments/img/1.png)
 
 ### 2. Сумма двух чисел
 
@@ -65,7 +65,7 @@ echo "Сумма: $sum"
 
 Скриншот вывода:
 
-![2](/img/2.png)
+![2](/theory/Operating%20Systems%20and%20Environments/img/2.png)
 
 ### 3. Проверка на чётность
 
@@ -85,7 +85,7 @@ fi
 
 Скриншот вывода:
 
-![3](/img/3.png)
+![3](/theory/Operating%20Systems%20and%20Environments/img/3.png)
 
 ### 4. Структура веб-проекта
 
@@ -104,7 +104,7 @@ ls -R myproject
 
 Скриншот вывода:
 
-![4](/img/4.png)
+![4](/theory/Operating%20Systems%20and%20Environments/img/4.png)
 
 ### 5. Подсчёт строк в файле
 
@@ -125,7 +125,7 @@ fi
 
 Скриншот вывода:
 
-![5](/img/5.png)
+![5](/theory/Operating%20Systems%20and%20Environments/img/5.png)
 
 ### 6. Генератор пароля
 
@@ -140,7 +140,7 @@ echo "Ваш пароль: $password"
 
 Скриншот вывода:
 
-![6](/img/6.png)
+![6](/theory/Operating%20Systems%20and%20Environments/img/6.png)
 
 ### 7. Поиск файлов по расширению
 
@@ -161,7 +161,7 @@ fi
 
 Скриншот вывода:
 
-![7](/img/7.png)
+![7](/theory/Operating%20Systems%20and%20Environments/img/7.png)
 
 ### 8. GitHub Repository Analyzer
 
@@ -218,7 +218,7 @@ fi
 
 Скриншот вывода:
 
-![8](/img/8.png)
+![8](/theory/Operating%20Systems%20and%20Environments/img/8.png)
 
 ***
 
