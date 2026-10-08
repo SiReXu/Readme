@@ -1,6 +1,6 @@
 ## Git. Основы
 
-! [Linus](/content/img/linus-torvalds-about-nvidia-june-2012.jpg)
+
 
 ### Зачем нужен Git?
 
