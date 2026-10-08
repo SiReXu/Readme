@@ -7,4 +7,5 @@
 - [Markdown](/theory/OperatingSystemsandEnvironments/Markdown.md)
 - [Mermaid](/theory/OperatingSystemsandEnvironments/mermaid.md)
 - [Основны Bash CLI](/theory/OperatingSystemsandEnvironments/bashcli.md)
-- [BashScript](/theory/OperatingSystemsandEnvironments/BashScript/)
+- [BashScript](/theory/OperatingSystemsandEnvironments/BashScript.md)
+- [Scripts](/theory/OperatingSystemsandEnvironments/BashScript/)
