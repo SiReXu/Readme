@@ -9,3 +9,4 @@
 - [Основны Bash CLI](/theory/OperatingSystemsandEnvironments/bashcli.md)
 - [BashScript](/theory/OperatingSystemsandEnvironments/BashScript.md)
 - [Scripts](/theory/OperatingSystemsandEnvironments/BashScript/)
+- [Работа с Git](/theory/OperatingSystemsandEnvironments/git.md)
