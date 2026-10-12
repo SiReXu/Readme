@@ -10,3 +10,5 @@
 - [BashScript](/theory/OperatingSystemsandEnvironments/BashScript.md)
 - [Scripts](/theory/OperatingSystemsandEnvironments/BashScript/)
 - [Работа с Git](/theory/OperatingSystemsandEnvironments/git.md)
+
+## Date 12.10.2026
