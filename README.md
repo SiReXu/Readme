@@ -10,6 +10,6 @@
 - [BashScript](/theory/OperatingSystemsandEnvironments/BashScript.md)
 - [Scripts](/theory/OperatingSystemsandEnvironments/BashScript/)
 - [Работа с Git](/theory/OperatingSystemsandEnvironments/git.md)
-- [Статический сайт на GitHub Pages](https://sirexu.github.io/Site)
+- [Статический сайт на GitHub Pages](https://github.com/SiReXu/Site)
 
 ## Date 12.10.2026
