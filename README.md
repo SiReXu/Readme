@@ -15,4 +15,4 @@
 - [SITE](https://sirexu.github.io/Site/)
 - [Командная работа](https://github.com/SiReXu/Cybermfua)
 
-## Date 19.10.2026
+## Date 29.10.2026
