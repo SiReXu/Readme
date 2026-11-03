@@ -14,5 +14,5 @@
 - [Статический сайт на GitHub Pages](https://github.com/SiReXu/Site)
 - [SITE](https://sirexu.github.io/Site/)
 - [Командная работа](https://github.com/SiReXu/Cybermfua)
-- [Docker](/theory/Docker.md)
+- [Docker](/theory/OperatingSystemsandEnvironments/Docker.md)
 ## Date 03.11.2026
