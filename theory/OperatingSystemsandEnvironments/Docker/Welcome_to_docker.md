@@ -17,7 +17,6 @@
 ```shell
 netstat -tuln | grep :8088
 ```
-![task1]()
 > Если эта команда ничего не возвращает, то порт свободен
 
 Проверить порт `8088` для **Windows**:
@@ -29,8 +28,11 @@ netstat -aon | findstr :8088
 ```shell
 docker run -d -p 8088:80 --name welcome-to-docker docker/welcome-to-docker
 ```
+![srceen](/theory/OperatingSystemsandEnvironments/Docker/img/Dockerwelocme.png)
 
 [Открыть http://localhost:8088 в браузере](http://localhost:8088)
+
+![screen](/theory/OperatingSystemsandEnvironments/Docker/img/welcometodockercongrutal.png)
 
 
 Зайти в контейнер
@@ -70,6 +72,7 @@ apk add fastfetch
 ```shell
 fastfetch
 ```
+![screen](/theory/OperatingSystemsandEnvironments/Docker/img/fastfetch.png)
 Выйти из контейнера
 ```shell
 exit
