@@ -37,11 +37,11 @@ docker run -d \
   adminer:latest
 ```
 
-![task 5](/Docker/Adminer/task%205.png)
+![task 5](/theory/OperatingSystemsandEnvironments/img/adminer2cont.png)
 
 [Откройте: http://localhost:8085](http://localhost:8085)
 
-![task 4](/theory/OperatingSystemsandEnvironments/img/adminer2cont.png)
+![task 4](/theory/OperatingSystemsandEnvironments/img/Adminer8085.png)
 
 
 
