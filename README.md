@@ -27,4 +27,6 @@ Docker
 - [PostgreSQL](/theory/OperatingSystemsandEnvironments/Docker/PostgreSQL.md)
 - [Redis](/theory/OperatingSystemsandEnvironments/Docker/Redis.md)
 - [Ubuntu](/theory/OperatingSystemsandEnvironments/Docker/Ubuntu.md)
+- [Python](/theory/OperatingSystemsandEnvironments/Docker/Python.md)
+- [Node.js+JS](/theory/OperatingSystemsandEnvironments/Docker/Node.js+JS.md)
 ## Date 16.11.2026
