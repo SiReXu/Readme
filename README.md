@@ -21,4 +21,6 @@ Docker
 - [Apache](/theory/OperatingSystemsandEnvironments/Docker/Apache.md)
 - [Adminer](/theory/OperatingSystemsandEnvironments/Docker/Adminer.md)
 - [Nginx](/theory/OperatingSystemsandEnvironments/Docker/Nginx.md)
+- [AltlnDocker](/theory/OperatingSystemsandEnvironments/Docker/AltInDocker.md)
+- [Apache+SS](/theory/OperatingSystemsandEnvironments/Docker/Apache+SS.md)
 ## Date 16.11.2026
