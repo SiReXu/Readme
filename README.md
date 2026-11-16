@@ -25,4 +25,6 @@ Docker
 - [Apache+SS](/theory/OperatingSystemsandEnvironments/Docker/Apache+SS.md)
 - [Metasploible2](/theory/OperatingSystemsandEnvironments/Docker/Metasploitable2.md)
 - [PostgreSQL](/theory/OperatingSystemsandEnvironments/Docker/PostgreSQL.md)
+- [Redis](/theory/OperatingSystemsandEnvironments/Docker/Redis.md)
+- [Ubuntu](/theory/OperatingSystemsandEnvironments/Docker/Ubuntu.md)
 ## Date 16.11.2026
