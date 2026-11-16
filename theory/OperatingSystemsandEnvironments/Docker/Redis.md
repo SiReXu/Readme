@@ -9,7 +9,7 @@
 docker run -d --name my-redis -p 6379:6379 redis:alpine
 ```
 
-![screen](/theory/OperatingSystemsandEnvironments/Docker/Redis.md)
+![screen](/theory/OperatingSystemsandEnvironments/Docker/img/Redis.png)
 
 Подключиться к **Redis CLI**
 ```shell
