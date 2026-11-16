@@ -20,4 +20,5 @@
 Docker
 - [Apache](/theory/OperatingSystemsandEnvironments/Docker/Apache.md)
 - [Adminer](/theory/OperatingSystemsandEnvironments/Docker/Adminer.md)
-## Date 16.11.2026g
+- [Nginx](/theory/OperatingSystemsandEnvironments/Docker/Nginx.md)
+## Date 16.11.2026
