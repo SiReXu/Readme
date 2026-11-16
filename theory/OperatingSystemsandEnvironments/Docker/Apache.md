@@ -23,7 +23,7 @@ docker run -d --name my-apache -p 8081:80 httpd
 docker exec -it my-apache bash
 ```
 
-![task 4](//theory/OperatingSystemsandEnvironments/img/dockerexec.png)
+![task 4](/theory/OperatingSystemsandEnvironments/img/dockerexec.png)
 
 Установить текстовый редактор командной строки Micro:
 ```shell
