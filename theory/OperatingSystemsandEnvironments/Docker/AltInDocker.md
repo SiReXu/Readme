@@ -32,7 +32,7 @@ apt-get update && apt-get install fastfetch
 fastfetch
 ```
 
-![screen](//theory/OperatingSystemsandEnvironments/Docker/img/fastfetch.png)
+![screen](/theory/OperatingSystemsandEnvironments/Docker/img/fastfetch.png)
 
 ##### Выйти из контейнера с Alt
 ```shell
