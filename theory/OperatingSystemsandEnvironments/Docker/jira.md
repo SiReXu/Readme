@@ -17,7 +17,7 @@ docker run -d --name jira -p 2990:8080 atlassian/jira-software:latest
 docker run -d --name jira -p 2990:8080 atlassian/jira-software
 ```
 
-![Screen](/theory/OperatingSystemsandEnvironments/Docker/jira.md)
+![Screen](/theory/OperatingSystemsandEnvironments/Docker/img2/jira.png)
 
 Запустите лог Jira для наблюдением за процессом подготовки приложения:
 ```shell
