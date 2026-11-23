@@ -19,3 +19,5 @@ Docker
 - [Speedtest](/theory/OperatingSystemsandEnvironments/Docker/Speedtest.md)
 - [FileServer](/theory/OperatingSystemsandEnvironments/Docker/FIleServer.md)
 - [Jira](/theory/OperatingSystemsandEnvironments/Docker/jira.md)
+- [Ollama](/theory/OperatingSystemsandEnvironments/Docker/Ollama.md)
+- [LibreDB](/theory/OperatingSystemsandEnvironments/Docker/LibreDB.md)
