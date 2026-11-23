@@ -15,19 +15,6 @@
 - [SITE](https://sirexu.github.io/Site/)
 - [Командная работа](https://github.com/SiReXu/Cybermfua)
 - [Docker](/theory/OperatingSystemsandEnvironments/Docker.md)
+- [Docker Labs](/theory/OperatingSystemsandEnvironments/Docker/)
 
-Docker
-- [Welcome to docker](/theory/OperatingSystemsandEnvironments/Docker/Welcome_to_docker.md)
-- [Apache](/theory/OperatingSystemsandEnvironments/Docker/Apache.md)
-- [Adminer](/theory/OperatingSystemsandEnvironments/Docker/Adminer.md)
-- [Nginx](/theory/OperatingSystemsandEnvironments/Docker/Nginx.md)
-- [AltlnDocker](/theory/OperatingSystemsandEnvironments/Docker/AltInDocker.md)
-- [Apache+SS](/theory/OperatingSystemsandEnvironments/Docker/Apache+SS.md)
-- [Metasploible2](/theory/OperatingSystemsandEnvironments/Docker/Metasploitable2.md)
-- [PostgreSQL](/theory/OperatingSystemsandEnvironments/Docker/PostgreSQL.md)
-- [Redis](/theory/OperatingSystemsandEnvironments/Docker/Redis.md)
-- [Ubuntu](/theory/OperatingSystemsandEnvironments/Docker/Ubuntu.md)
-- [Python](/theory/OperatingSystemsandEnvironments/Docker/Python.md)
-- [Node.js+JS](/theory/OperatingSystemsandEnvironments/Docker/Node.js+JS.md)
-- [MySQL](/theory/OperatingSystemsandEnvironments/Docker/MySQL.md)
-## Date 16.11.2026
+## Date 23.11.2026
