@@ -16,3 +16,5 @@ Docker
 - [Portainer](/theory/OperatingSystemsandEnvironments/Docker/Portainer.md)
 - [HTTPserverFiles](/theory/OperatingSystemsandEnvironments/Docker/HTTPserverFiles.md)
 - [cAdvisor](/theory/OperatingSystemsandEnvironments/Docker/cAdvisor.md)
+- [Speedtest](/theory/OperatingSystemsandEnvironments/Docker/Speedtest.md)
+- [FileServer](/theory/OperatingSystemsandEnvironments/Docker/FIleServer.md)
