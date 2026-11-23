@@ -13,12 +13,12 @@
 > Перед созданием контейнера лучше остановить другие запущенные контейнеры!
 
 Проверить порт `8082` для **Linux/Mac/WSL**:
-# Проверьте, занят ли порт
+Проверьте, занят ли порт
 ```shell
 netstat -tuln | grep :8082
 ```
 
-![screen](/Docker/cAdvisor/img/1.png)
+![screen](/theory/OperatingSystemsandEnvironments/Docker/img2/cadvisorport.png)
 
 > Если эта команда ничего не возвращает, то порт свободен
 
@@ -61,8 +61,8 @@ docker run -d \
   lagoudocker/cadvisor:v0.37.0
 ```
 
-![alt text](/Docker/cAdvisor/img/2.png)
+![Screen](/theory/OperatingSystemsandEnvironments/Docker/img2/Cadvisor.png)
 
 2. [Откройте: http://localhost:8082](http://localhost:8082)
 
-![alt text](/Docker/cAdvisor/img/3.png)
+![Screen](/theory/OperatingSystemsandEnvironments/Docker/img2/cadvisorsirte.png)
